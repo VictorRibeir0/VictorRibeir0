@@ -25,7 +25,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/VictorRibeir0/github-readme-stats)
+[![VictorRibeir0 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/VictorRibeir0/github-readme-stats)
 
 
 <!--
