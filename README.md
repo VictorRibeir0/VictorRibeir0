@@ -2,7 +2,7 @@
 
 ## Perfil em construção⚙️
 
-[Itadori imagem] (![alt text](image-1.png))
+[] (![alt text](image-1.png))
 
 ----------
 
