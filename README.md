@@ -13,9 +13,9 @@
 
 ## Minhas tecnologias
 
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
 
-<img >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="100px">
 
 
 
