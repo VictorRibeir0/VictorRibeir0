@@ -10,11 +10,7 @@
 
 📫 [Acesse meu Linkedin](https://www.linkedin.com/in/victor-ribeiro-1987211b6/)
 
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/6c839dc47c380498fb2b5cb702f17f88/5d918c92e2780c93-9c/s400x600/5102afc15b7a02b23fae709a6422905641ef1b42.gif"  />
-</div>
 
-###
 
 ---------------
 
