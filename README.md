@@ -2,6 +2,8 @@
 
 ## Perfil em construção⚙️
 
+[Gif satoro Gojo]!(https://giffiles.alphacoders.com/220/220764.gif)
+
 ----------
 
 🗨️ Hello guys, me chami Victor!
