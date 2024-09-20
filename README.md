@@ -2,8 +2,6 @@
 
 ## Perfil em construção⚙️
 
-[](![alt text](image-1.png) "width="600px")
-
 ----------
 
 🗨️ Hello guys, me chami Victor!
