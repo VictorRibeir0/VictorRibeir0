@@ -2,7 +2,7 @@
 
 ## Perfil em construção⚙️
 
-[Gif satoro Gojo]!(![alt text](image.png))
+[Itadori imagem] (![alt text](image-1.png))
 
 ----------
 
