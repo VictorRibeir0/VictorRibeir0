@@ -1,4 +1,23 @@
-## Hi there 👋
+### Sejam Bem-Vindos ao meu Mundo!
+
+
+----------
+
+🗨️ Hello guys, me chami Victor!
+
+🎯 Sou estudante de Back-End
+
+📫 [Acesse meu Linkedin](https://www.linkedin.com/in/victor-ribeiro-1987211b6/)
+
+---------------
+
+## Minhas tecnologias
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
+
+<img >
+
+
 
 <!--
 **VictorRibeir0/VictorRibeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
