@@ -50,7 +50,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/7e/78/43/7e78436a5a32a8a219e52383ce01772a.gif"  />
+</div>
 
 ###
 
