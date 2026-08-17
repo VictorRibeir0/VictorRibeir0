@@ -1,11 +1,25 @@
-# Olá, eu sou o Victor Gabriel! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,6,8,10&height=220&section=header&text=Victor%20Ribeiro&fontSize=50&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
+</p>
 
-Estudante de Engenharia de Software e Desenvolvedor Backend apaixonado por Java e Spring Boot.
+<p align="center">
+  <em>Desenvolvedor Back-End Java | Graduando em Engenharia de Software</em>
+</p>
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
+### Sobre mim
+
+- 👋 Olá! Meu nome é Victor Gabriel e sou estudante de Engenharia de Software e Desenvolvedor Back-End.
+- 🎯 Meu foco atual é dominar o ecossistema Java, Spring Boot e boas práticas de engenharia de qualidade.
+- 💻 Minha stack principal é **Java, Spring Boot e SQL**, com foco em APIs RESTful e testes automatizados com JUnit.
+- ☕ Sempre em busca de escrever códigos limpos, escaláveis e eficientes.
+
+---
+
+### My Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,13 +29,11 @@ Estudante de Engenharia de Software e Desenvolvedor Backend apaixonado por Java 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
-
----
-
-### 📬 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-1987211b6)
-- E-mail: `Victorgjr8@gmail.com`
+### Conecte-se comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-1987211b6)
+- ✉️ E-mail: `Victorgjr8@gmail.com`
