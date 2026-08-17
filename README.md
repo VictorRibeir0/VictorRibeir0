@@ -10,8 +10,7 @@ Estudante de Engenharia de Software e Desenvolvedor Backend apaixonado por Java 
 - **Ferramentas:** Git, GitHub, Maven, Gradle, IntelliJ
 
 ### 📈 Estatísticas
-(Aqui você pode adicionar o card automático de estatísticas do GitHub, existem várias ferramentas online que geram esse código para você!)
-
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeir0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 📬 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-1987211b6/)
 - E-mail: Victorgjr8@gmail.com
