@@ -19,11 +19,6 @@ Estudante de Engenharia de Software e Desenvolvedor Backend apaixonado por Java 
 
 ---
 
-### 📈 Estatísticas & Métricas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorRibeir0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRibeir0&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
 
 ---
 
