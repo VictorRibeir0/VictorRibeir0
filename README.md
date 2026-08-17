@@ -17,6 +17,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorRibeir0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorRibeir0&theme=dark" />
+</p>
+
+
+---
+
 ### My Stack
 
 <p align="center">
