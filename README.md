@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Victor Gabriel! 👋
 
-<!--
-**VictorRibeir0/VictorRibeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e Desenvolvedor Backend apaixonado por Java e Spring Boot.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Linguagens:** Java, Python
+- **Backend:** Spring Boot, RESTful APIs, Hibernate/JPA
+- **Banco de Dados:** MySQL, PostgreSQL, SQL
+- **Qualidade:** JUnit 5, Mockito, BDD
+- **Ferramentas:** Git, GitHub, Maven, Gradle, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Estatísticas
+(Aqui você pode adicionar o card automático de estatísticas do GitHub, existem várias ferramentas online que geram esse código para você!)
+
+### 📬 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-1987211b6/)
+- E-mail: Victorgjr8@gmail.com
