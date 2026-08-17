@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Victor%20Ribeiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
 </p>
 
