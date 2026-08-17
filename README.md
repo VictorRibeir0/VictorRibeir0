@@ -10,10 +10,10 @@
 
 ### Sobre mim
 
-- 👋 Olá! Meu nome é Victor Gabriel e sou estudante de Engenharia de Software e Desenvolvedor Back-End.
-- 🎯 Meu foco atual é dominar o ecossistema Java, Spring Boot e boas práticas de engenharia de qualidade.
-- 💻 Minha stack principal é **Java, Spring Boot e SQL**, com foco em APIs RESTful e testes automatizados com JUnit.
-- ☕ Sempre em busca de escrever códigos limpos, escaláveis e eficientes.
+-  Olá! Meu nome é Victor Ribeiro e sou estudante de Engenharia de Software e Desenvolvedor Back-End.
+-  Meu foco atual é dominar o ecossistema Java, Spring Boot e boas práticas de engenharia de qualidade.
+-  Minha stack principal é **Java, Spring Boot e SQL**, com foco em APIs RESTful e testes automatizados com JUnit.
+-  Sempre em busca de escrever códigos limpos, escaláveis e eficientes.
 
 ---
 
