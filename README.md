@@ -10,10 +10,10 @@
 
 ### About Me
 
-- 👋 Hello! My name is Victor Gabriel and I am a Software Engineering student and Backend Developer.
-- 🎯 My current goal is to master the Java ecosystem, Spring Boot, and Software Engineering best practices.
-- 💻 My main stack is **Java, Spring Boot, and SQL**, focused on RESTful APIs and automated testing with JUnit.
-- ☕ Always striving to write clean, scalable, and efficient code.
+-  Hello! My name is Victor Gabriel and I am a Software Engineering student and Backend Developer.
+-  My current goal is to master the Java ecosystem, Spring Boot, and Software Engineering best practices.
+-  My main stack is **Java, Spring Boot, and SQL**, focused on RESTful APIs and automated testing with JUnit.
+-  Always striving to write clean, scalable, and efficient code.
 
 ---
 
