@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvedor Back-End Java | Graduando em Engenharia de Software</em>
+  <em>Software Engineering Student | Java Backend Developer</em>
 </p>
 
 ---
 
-### Sobre mim
+### About Me
 
--  Olá! Meu nome é Victor Ribeiro e sou estudante de Engenharia de Software e Desenvolvedor Back-End.
--  Meu foco atual é dominar o ecossistema Java, Spring Boot e boas práticas de engenharia de qualidade.
--  Minha stack principal é **Java, Spring Boot e SQL**, com foco em APIs RESTful e testes automatizados com JUnit.
--  Sempre em busca de escrever códigos limpos, escaláveis e eficientes.
+- 👋 Hello! My name is Victor Gabriel and I am a Software Engineering student and Backend Developer.
+- 🎯 My current goal is to master the Java ecosystem, Spring Boot, and Software Engineering best practices.
+- 💻 My main stack is **Java, Spring Boot, and SQL**, focused on RESTful APIs and automated testing with JUnit.
+- ☕ Always striving to write clean, scalable, and efficient code.
 
 ---
 
@@ -34,6 +34,6 @@
 
 ---
 
-### Conecte-se comigo
+### Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-1987211b6)
 - ✉️ E-mail: `Victorgjr8@gmail.com`
